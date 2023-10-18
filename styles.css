@@ -1,0 +1,16 @@
+.cell {
+  width: 20px;
+  height: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.dead {
+  background-color: grey;
+}
+
+.alive {
+  background-color: green;
+}
